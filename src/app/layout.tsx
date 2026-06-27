@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Gaël — Développeur web, Bordeaux",
+  title: "Gaël",
   description: "Portfolio de Gaël, développeur web freelance basé à Bordeaux.",
 };
 
